@@ -4,7 +4,6 @@
     bottom: 0;
     left: 0;
     z-index: 100;
-    padding: 48px 0 0;
     box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
 }
 
@@ -107,8 +106,8 @@
     padding: 0.375rem 0.75rem;
 }
 
-main {
-    padding-top: 48px;
+main{
+    padding-top:5px;
 }
 
 @media (max-width: 767.98px) {

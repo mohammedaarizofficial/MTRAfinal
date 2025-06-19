@@ -1,96 +1,193 @@
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\rpswa.dswa.cache.json
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\MTRADashboard.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\MTRADashboard.AssemblyInfoInputs.cache
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\MTRADashboard.AssemblyInfo.cs
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\MTRADashboard.csproj.CoreCompileInputs.cache
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\MTRADashboard.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\MTRADashboard.RazorAssemblyInfo.cache
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\MTRADashboard.RazorAssemblyInfo.cs
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\bin\Debug\net9.0\appsettings.Development.json
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\bin\Debug\net9.0\appsettings.json
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\bin\Debug\net9.0\MTRADashboard.staticwebassets.runtime.json
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\bin\Debug\net9.0\MTRADashboard.staticwebassets.endpoints.json
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\bin\Debug\net9.0\MTRADashboard.exe
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\bin\Debug\net9.0\MTRADashboard.deps.json
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\bin\Debug\net9.0\MTRADashboard.runtimeconfig.json
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\bin\Debug\net9.0\MTRADashboard.dll
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\bin\Debug\net9.0\MTRADashboard.pdb
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\rjimswa.dswa.cache.json
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\scopedcss\bundle\MTRADashboard.styles.css
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\scopedcss\projectbundle\MTRADashboard.bundle.scp.css
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\qdpo8rkmk3-ijcfc651nz.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\2tjjxrt6dq-61n19gt1b8.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\30x8sln414-xtxxf3hu2r.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\0xcfcitbxe-bqjiyaj88i.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\www5lae61g-c2jlpeoesf.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\1yixxkoci4-erw9l3u2r3.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\2pstnjjwm4-aexeepp0ev.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\rcm6cxgtvc-d7shbmvgxk.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\v9eivk3htq-ausgxo2sd3.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\d3zjaehnlz-k8d9w2qqmf.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\nf0erur1bh-cosvhxvwiu.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\iee029vr7s-ub07r2b239.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\69pvyyo2ey-fvhpjtyr6v.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\foqh7pqgrb-b7pk76d08c.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\htlxcls9jh-fsbi9cje9m.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\ebihehjrda-rzd6atqjts.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\4z3p5j3115-ee0r1s7dh0.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\zps7ynuztl-dxx9fxp4il.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\tmhjc7o7wj-jd9uben2k1.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\wu5i4vr0om-khv3u5hwcm.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\jsnabdhab8-r4e9w2rdcm.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\a5fr8r8c10-lcd1t2u6c8.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\8org1wzkxv-c2oey78nd0.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\p72od81l42-tdbxkamptv.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\yi2m4plk3k-j5mq2jizvt.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\09a0o3lyep-06098lyss8.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\kvxghqh4md-nvvlpmu67g.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\78gn7i7va0-s35ty4nyc5.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\z6oulsytog-pj5nd1wqec.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\7jzro66aru-46ein0sx1k.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\5j1mqdctk4-v0zj4ognzu.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\g4mcjg73x1-37tfw0ft22.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\yrk0lv6r7q-hrwsygsryq.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\lhzm4vqbhi-pk9g2wxc8p.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\h5xheuibmv-ft3s53vfgj.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\mrzu6jd5y9-6cfz1n2cew.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\k5ux2pktwa-6pdc2jztkx.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\3vbxqe77ha-493y06b0oq.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\itcp8407we-iovd86k7lj.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\5i8wa24v7r-vr1egmr9el.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\zxwtknrs4a-kbrnm935zg.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\6dr84ucru4-jj8uyg4cgr.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\xavwaneu4k-y7v9cxd14o.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\rr53w6b85t-notf2xhcfb.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\fm9m0o0vcm-h1s4sie4z3.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\rgbm9t2czu-63fj8s7r0e.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\7d4juumudp-0j3bgjxly4.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\6vvposbexa-47otxtyo56.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\pazh8zm526-4v8eqarkd7.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\a09dbm66y2-356vix0kms.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\ky7ux81zfu-83jwlth58m.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\py7ovz7mv3-mrlpezrjn3.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\mkz847qs9i-lzl9nlhx6b.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\o1642reyk5-ag7o75518u.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\3s764sc6o5-x0q3zqp4vz.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\3zt0aqit77-0i3buxo5is.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\z6n66bs189-o1o13a6vjx.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\o9446mjr2l-ttgo8qnofa.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\ikct7izzhc-2z0ns9nrw6.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\959f5bo3q0-muycvpuwrr.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\bhtflt4mq1-87fc7y1x7t.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\ufu6xbse7t-mlv21k5csn.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\928nwzb8vv-9hmtw0qxhy.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\compressed\ci8an4ktsx-9hmtw0qxhy.gz
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\staticwebassets.build.json
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\staticwebassets.build.json.cache
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\staticwebassets.development.json
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\MTRADashboard.dll
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\refint\MTRADashboard.dll
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\MTRADashboard.pdb
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\MTRADashboard.genruntimeconfig.cache
-C:\Users\huzai\OneDrive\Documents\Born to frollick forced to code\MTRADashboard\obj\Debug\net9.0\ref\MTRADashboard.dll
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/rpswa.dswa.cache.json
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/MTRADashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/MTRADashboard.AssemblyInfoInputs.cache
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/MTRADashboard.AssemblyInfo.cs
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/MTRADashboard.csproj.CoreCompileInputs.cache
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/MTRADashboard.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/MTRADashboard.RazorAssemblyInfo.cache
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/MTRADashboard.RazorAssemblyInfo.cs
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/bin/Debug/net9.0/appsettings.Development.json
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/bin/Debug/net9.0/appsettings.json
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/bin/Debug/net9.0/MTRADashboard.staticwebassets.runtime.json
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/bin/Debug/net9.0/MTRADashboard.staticwebassets.endpoints.json
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/bin/Debug/net9.0/MTRADashboard.exe
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/bin/Debug/net9.0/MTRADashboard.deps.json
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/bin/Debug/net9.0/MTRADashboard.runtimeconfig.json
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/bin/Debug/net9.0/MTRADashboard.dll
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/bin/Debug/net9.0/MTRADashboard.pdb
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/rjimswa.dswa.cache.json
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/scopedcss/bundle/MTRADashboard.styles.css
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/scopedcss/projectbundle/MTRADashboard.bundle.scp.css
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/qdpo8rkmk3-ijcfc651nz.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/2tjjxrt6dq-61n19gt1b8.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/30x8sln414-xtxxf3hu2r.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/0xcfcitbxe-bqjiyaj88i.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/www5lae61g-c2jlpeoesf.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/1yixxkoci4-erw9l3u2r3.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/2pstnjjwm4-aexeepp0ev.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/rcm6cxgtvc-d7shbmvgxk.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/v9eivk3htq-ausgxo2sd3.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/d3zjaehnlz-k8d9w2qqmf.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/nf0erur1bh-cosvhxvwiu.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/iee029vr7s-ub07r2b239.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/69pvyyo2ey-fvhpjtyr6v.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/foqh7pqgrb-b7pk76d08c.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/htlxcls9jh-fsbi9cje9m.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/ebihehjrda-rzd6atqjts.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/4z3p5j3115-ee0r1s7dh0.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/zps7ynuztl-dxx9fxp4il.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/tmhjc7o7wj-jd9uben2k1.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/wu5i4vr0om-khv3u5hwcm.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/jsnabdhab8-r4e9w2rdcm.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/a5fr8r8c10-lcd1t2u6c8.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/8org1wzkxv-c2oey78nd0.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/p72od81l42-tdbxkamptv.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/yi2m4plk3k-j5mq2jizvt.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/09a0o3lyep-06098lyss8.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/kvxghqh4md-nvvlpmu67g.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/78gn7i7va0-s35ty4nyc5.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/z6oulsytog-pj5nd1wqec.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/7jzro66aru-46ein0sx1k.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/5j1mqdctk4-v0zj4ognzu.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/g4mcjg73x1-37tfw0ft22.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/yrk0lv6r7q-hrwsygsryq.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/lhzm4vqbhi-pk9g2wxc8p.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/h5xheuibmv-ft3s53vfgj.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/mrzu6jd5y9-6cfz1n2cew.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/k5ux2pktwa-6pdc2jztkx.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/3vbxqe77ha-493y06b0oq.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/itcp8407we-iovd86k7lj.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/5i8wa24v7r-vr1egmr9el.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/zxwtknrs4a-kbrnm935zg.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/6dr84ucru4-jj8uyg4cgr.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/xavwaneu4k-y7v9cxd14o.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/rr53w6b85t-notf2xhcfb.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/fm9m0o0vcm-h1s4sie4z3.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/rgbm9t2czu-63fj8s7r0e.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/7d4juumudp-0j3bgjxly4.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/6vvposbexa-47otxtyo56.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/pazh8zm526-4v8eqarkd7.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/a09dbm66y2-356vix0kms.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/ky7ux81zfu-83jwlth58m.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/py7ovz7mv3-mrlpezrjn3.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/mkz847qs9i-lzl9nlhx6b.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/o1642reyk5-ag7o75518u.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/3s764sc6o5-x0q3zqp4vz.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/3zt0aqit77-0i3buxo5is.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/z6n66bs189-o1o13a6vjx.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/o9446mjr2l-ttgo8qnofa.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/ikct7izzhc-2z0ns9nrw6.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/959f5bo3q0-muycvpuwrr.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/bhtflt4mq1-87fc7y1x7t.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/ufu6xbse7t-mlv21k5csn.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/928nwzb8vv-9hmtw0qxhy.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/compressed/ci8an4ktsx-9hmtw0qxhy.gz
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/staticwebassets.build.json
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/staticwebassets.build.json.cache
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/staticwebassets.development.json
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/MTRADashboard.dll
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/refint/MTRADashboard.dll
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/MTRADashboard.pdb
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/MTRADashboard.genruntimeconfig.cache
+C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/obj/Debug/net9.0/ref/MTRADashboard.dll
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/bin/Debug/net9.0/appsettings.Development.json
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/bin/Debug/net9.0/appsettings.json
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/bin/Debug/net9.0/MTRADashboard.staticwebassets.runtime.json
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/bin/Debug/net9.0/MTRADashboard.staticwebassets.endpoints.json
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/bin/Debug/net9.0/MTRADashboard
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/bin/Debug/net9.0/MTRADashboard.deps.json
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/bin/Debug/net9.0/MTRADashboard.runtimeconfig.json
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/bin/Debug/net9.0/MTRADashboard.dll
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/bin/Debug/net9.0/MTRADashboard.pdb
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/MTRADashboard.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/MTRADashboard.AssemblyInfoInputs.cache
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/MTRADashboard.AssemblyInfo.cs
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/MTRADashboard.csproj.CoreCompileInputs.cache
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/MTRADashboard.MvcApplicationPartsAssemblyInfo.cache
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/MTRADashboard.RazorAssemblyInfo.cache
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/MTRADashboard.RazorAssemblyInfo.cs
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/MTRADashboard.sourcelink.json
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/scopedcss/bundle/MTRADashboard.styles.css
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/scopedcss/projectbundle/MTRADashboard.bundle.scp.css
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/qdpo8rkmk3-4grv82si1g.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/2tjjxrt6dq-61n19gt1b8.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/30x8sln414-fr7q2aak1r.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/0xcfcitbxe-bqjiyaj88i.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/www5lae61g-c2jlpeoesf.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/1yixxkoci4-erw9l3u2r3.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/2pstnjjwm4-aexeepp0ev.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/rcm6cxgtvc-d7shbmvgxk.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/v9eivk3htq-ausgxo2sd3.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/d3zjaehnlz-k8d9w2qqmf.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/nf0erur1bh-cosvhxvwiu.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/iee029vr7s-ub07r2b239.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/69pvyyo2ey-fvhpjtyr6v.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/foqh7pqgrb-b7pk76d08c.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/htlxcls9jh-fsbi9cje9m.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/ebihehjrda-rzd6atqjts.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/4z3p5j3115-ee0r1s7dh0.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/zps7ynuztl-dxx9fxp4il.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/tmhjc7o7wj-jd9uben2k1.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/wu5i4vr0om-khv3u5hwcm.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/jsnabdhab8-r4e9w2rdcm.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/a5fr8r8c10-lcd1t2u6c8.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/8org1wzkxv-c2oey78nd0.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/p72od81l42-tdbxkamptv.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/yi2m4plk3k-j5mq2jizvt.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/09a0o3lyep-06098lyss8.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/kvxghqh4md-nvvlpmu67g.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/78gn7i7va0-s35ty4nyc5.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/z6oulsytog-pj5nd1wqec.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/7jzro66aru-46ein0sx1k.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/5j1mqdctk4-v0zj4ognzu.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/g4mcjg73x1-37tfw0ft22.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/yrk0lv6r7q-hrwsygsryq.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/lhzm4vqbhi-pk9g2wxc8p.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/h5xheuibmv-ft3s53vfgj.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/mrzu6jd5y9-6cfz1n2cew.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/k5ux2pktwa-6pdc2jztkx.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/3vbxqe77ha-493y06b0oq.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/itcp8407we-iovd86k7lj.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/5i8wa24v7r-vr1egmr9el.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/zxwtknrs4a-kbrnm935zg.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/6dr84ucru4-jj8uyg4cgr.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/xavwaneu4k-y7v9cxd14o.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/rr53w6b85t-notf2xhcfb.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/fm9m0o0vcm-h1s4sie4z3.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/rgbm9t2czu-63fj8s7r0e.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/7d4juumudp-0j3bgjxly4.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/6vvposbexa-47otxtyo56.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/pazh8zm526-4v8eqarkd7.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/a09dbm66y2-l3n5xuwxn8.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/ky7ux81zfu-ilo7uva0vt.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/py7ovz7mv3-qlccset4i1.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/mkz847qs9i-lzl9nlhx6b.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/o1642reyk5-ag7o75518u.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/3s764sc6o5-xzw0cte36n.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/3zt0aqit77-0i3buxo5is.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/z6n66bs189-o1o13a6vjx.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/o9446mjr2l-ttgo8qnofa.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/ikct7izzhc-2z0ns9nrw6.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/959f5bo3q0-muycvpuwrr.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/bhtflt4mq1-87fc7y1x7t.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/ufu6xbse7t-jfsiqqwiad.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/928nwzb8vv-4o0auti6zl.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/ci8an4ktsx-4o0auti6zl.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/staticwebassets.build.json
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/staticwebassets.development.json
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/MTRADashboard.dll
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/refint/MTRADashboard.dll
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/MTRADashboard.pdb
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/MTRADashboard.genruntimeconfig.cache
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/ref/MTRADashboard.dll
