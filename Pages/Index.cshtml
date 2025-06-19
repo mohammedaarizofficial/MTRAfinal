@@ -1,0 +1,192 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3">
+    <h1 class="text-center w-100">
+        <span class="fw-bold display-4" style="color: #4285f4;">MTRA</span>
+        <br>
+        <small class="text-muted fs-6">MULTI-MODAL TRANSPORT & LOGISTICS</small>
+        <hr class="w-25 mx-auto" style="color: #4285f4; height: 3px;">
+    </h1>
+</div>
+
+<!-- Stats Cards -->
+<div class="row mb-4">
+    <div class="col-lg-3 col-md-6 mb-3">
+        <div class="card stats-card pending-card">
+            <div class="card-body">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div>
+                        <h6 class="card-subtitle mb-2 text-muted">Pending Requests</h6>
+                        <h2 class="card-title mb-0">@Model.Stats.PendingRequests</h2>
+                    </div>
+                    <div class="stats-icon pending-icon">
+                        <i class="fas fa-clock"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-6 mb-3">
+        <div class="card stats-card approved-card">
+            <div class="card-body">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div>
+                        <h6 class="card-subtitle mb-2 text-muted">Approved</h6>
+                        <h2 class="card-title mb-0">@Model.Stats.ApprovedRequests</h2>
+                    </div>
+                    <div class="stats-icon approved-icon">
+                        <i class="fas fa-check"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-6 mb-3">
+        <div class="card stats-card rejected-card">
+            <div class="card-body">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div>
+                        <h6 class="card-subtitle mb-2 text-muted">Rejected</h6>
+                        <h2 class="card-title mb-0">@Model.Stats.RejectedRequests</h2>
+                    </div>
+                    <div class="stats-icon rejected-icon">
+                        <i class="fas fa-times"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-6 mb-3">
+        <div class="card stats-card active-card">
+            <div class="card-body">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div>
+                        <h6 class="card-subtitle mb-2 text-muted">Active Transports</h6>
+                        <h2 class="card-title mb-0">@Model.Stats.ActiveTransports</h2>
+                    </div>
+                    <div class="stats-icon active-icon">
+                        <i class="fas fa-shipping-fast"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Weekly Chart -->
+<div class="row mb-4">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h5 class="card-title mb-0">Weekly Transport Requests Overview</h5>
+            </div>
+            <div class="card-body">
+                <canvas id="weeklyChart" width="400" height="100"></canvas>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Recent Requests Table -->
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h5 class="card-title mb-0">Recent Requests</h5>
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th>REQUEST ID</th>
+                                <th>TYPE</th>
+                                <th>DESTINATION</th>
+                                <th>STATUS</th>
+                                <th>ACTION</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var request in Model.RecentRequests)
+                            {
+                                <tr>
+                                    <td>@request.RequestId</td>
+                                    <td>@request.Type</td>
+                                    <td>@request.Destination</td>
+                                    <td>
+                                        @switch (request.Status)
+                                        {
+                                            case RequestStatus.Pending:
+                                                <span class="badge bg-warning">Pending</span>
+                                                break;
+                                            case RequestStatus.Approved:
+                                                <span class="badge bg-success">Approved</span>
+                                                break;
+                                            case RequestStatus.Rejected:
+                                                <span class="badge bg-danger">Rejected</span>
+                                                break;
+                                            case RequestStatus.Active:
+                                                <span class="badge bg-primary">Active</span>
+                                                break;
+                                        }
+                                    </td>
+                                    <td>
+                                        <a href="#" class="btn btn-sm btn-outline-primary">View</a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        // Weekly Chart
+        const ctx = document.getElementById('weeklyChart').getContext('2d');
+        const weeklyData = @Html.Raw(System.Text.Json.JsonSerializer.Serialize(Model.WeeklyStats));
+        
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: weeklyData.map(d => d.day),
+                datasets: [{
+                    data: weeklyData.map(d => d.requests),
+                    backgroundColor: '#4285f4',
+                    borderColor: '#4285f4',
+                    borderWidth: 1,
+                    borderRadius: 4
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        display: false
+                    }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        max: 10,
+                        ticks: {
+                            stepSize: 3
+                        }
+                    },
+                    x: {
+                        grid: {
+                            display: false
+                        }
+                    }
+                }
+            }
+        });
+    </script>
+}
