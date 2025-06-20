@@ -118,8 +118,6 @@ C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/
 /Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
 /Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/scopedcss/bundle/MTRADashboard.styles.css
 /Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/scopedcss/projectbundle/MTRADashboard.bundle.scp.css
-/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/qdpo8rkmk3-4grv82si1g.gz
-/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/2tjjxrt6dq-61n19gt1b8.gz
 /Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/30x8sln414-fr7q2aak1r.gz
 /Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/0xcfcitbxe-bqjiyaj88i.gz
 /Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/www5lae61g-c2jlpeoesf.gz
@@ -191,3 +189,5 @@ C:/Users/huzai/OneDrive/Documents/Born to frollick forced to code/MTRADashboard/
 /Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/MTRADashboard.pdb
 /Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/MTRADashboard.genruntimeconfig.cache
 /Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/ref/MTRADashboard.dll
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/qdpo8rkmk3-s0d1wkuu7w.gz
+/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/Debug/net9.0/compressed/7bfqerw56b-61n19gt1b8.gz
