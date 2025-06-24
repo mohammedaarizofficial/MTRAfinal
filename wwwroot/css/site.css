@@ -23,6 +23,11 @@
     color: white;
 }
 
+/* Login Page Styles */
+.bg-gradient-to-br {
+    background: linear-gradient(to bottom right, #e6f3ff, #ffffff, #e6f3ff);
+}
+
 .stats-card {
     border: none;
     border-radius: 0.75rem;
