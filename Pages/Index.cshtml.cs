@@ -1,10 +1,19 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using MTRADashboard.Models;
 
 namespace MTRADashboard.Pages
 {
+    [Authorize]
     public class IndexModel : PageModel
     {
+        private readonly ILogger<IndexModel> _logger;
+
+        public IndexModel(ILogger<IndexModel> logger)
+        {
+            _logger = logger;
+        }
+
         public DashboardStats Stats { get; set; } = new();
         public List<WeeklyData> WeeklyStats { get; set; } = new();
         public List<TransportRequest> RecentRequests { get; set; } = new();

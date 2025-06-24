@@ -1,0 +1,91 @@
+@page
+@model MTRADashboard.Pages.LoginModel
+@{
+    Layout = "_LoginLayout";
+}
+
+<div class="min-vh-100 d-flex align-items-center justify-content-center p-4">
+    <div class="w-100" style="max-width: 450px;">
+        <!-- Logo and Header -->
+        <div class="text-center mb-5">
+            <div class="mx-auto mb-4" style="width: 180px; height: 120px; display: flex; align-items: center; justify-content: center;">
+                <img src="~/images/ADNOC-Logo-removebg-preview.png" alt="ADNOC Logo" class="img-fluid" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+            </div>
+            <div>
+                <h1 class="h2 fw-bold text-dark mb-2">MTRA</h1>
+                <p class="h5 text-primary mb-1">Multi-Modal Transport & Logistics</p>
+                <p class="small text-muted">Sign in to your account</p>
+            </div>
+        </div>
+
+        <!-- Login Form -->
+        <div class="card shadow border-0" style="background: rgba(255, 255, 255, 0.95);">
+            <div class="card-header bg-transparent border-0 pb-0">
+                <h2 class="h4 text-center mb-0">Welcome Back</h2>
+            </div>
+            <div class="card-body p-4">
+                <form method="post" class="needs-validation" novalidate>
+                    @if (!ModelState.IsValid)
+                    {
+                        <div class="alert alert-danger">Invalid login attempt.</div>
+                    }
+                    <div class="mb-3">
+                        <label for="email" class="form-label small fw-medium text-muted">Email Address</label>
+                        <input type="email" class="form-control form-control-lg" id="email" name="Email" 
+                               placeholder="Enter your email" required>
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label for="password" class="form-label small fw-medium text-muted">Password</label>
+                        <input type="password" class="form-control form-control-lg" id="password" name="Password" 
+                               placeholder="Enter your password" required>
+                    </div>
+
+                    <div class="d-flex justify-content-between align-items-center mb-4">
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="remember" name="RememberMe">
+                            <label class="form-check-label small text-muted" for="remember">
+                                Remember me
+                            </label>
+                        </div>
+                        <a href="#" class="small text-primary text-decoration-none fw-medium">Forgot password?</a>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary w-100 btn-lg">Sign In</button>
+                </form>
+
+                <div class="text-center mt-4">
+                    <p class="small text-muted mb-0">
+                        Don't have an account? 
+                        <a href="#" class="text-primary text-decoration-none fw-medium">Contact Administrator</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="text-center mt-4">
+            <p class="small text-muted mb-1">© 2024 ADNOC. All rights reserved.</p>
+            <p class="small text-muted">Multi-Modal Transport & Logistics v2.1</p>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        // Prevent form submission if validation fails
+        (function () {
+            'use strict'
+            var forms = document.querySelectorAll('.needs-validation')
+            Array.prototype.slice.call(forms).forEach(function (form) {
+                form.addEventListener('submit', function (event) {
+                    if (!form.checkValidity()) {
+                        event.preventDefault()
+                        event.stopPropagation()
+                    }
+                    form.classList.add('was-validated')
+                }, false)
+            })
+        })()
+    </script>
+} 

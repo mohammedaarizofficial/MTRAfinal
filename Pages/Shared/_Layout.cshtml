@@ -13,13 +13,14 @@
         <div class="row">
             <!-- Sidebar -->
             <nav class="col-md-2 d-md-block bg-light sidebar" style="box-shadow:0px 5px 5px grey;">
-                <div class="position-sticky mx-auto" style="padding-left:5px;">
+                <div class="position-sticky d-flex flex-column h-100" style="padding-left:5px;">
                     <div class="mb-4">
                         <div class="d-flex align-items-center justify-content-center">
                             <img src="~/images/ADNOC-Logo-removebg-preview.png" alt="ADNOC logo" style="width:150px;height:100px;">
                         </div>
                     </div>
-                    <ul class="nav flex-column">
+
+                    <ul class="nav flex-column flex-grow-1">
                         <li class="nav-item">
                             <a class="nav-link " href="/Index">
                                 <i class="fas fa-inbox me-2"></i>
@@ -57,11 +58,27 @@
                             </a>
                         </li>
                     </ul>
+
+                    <!-- Profile Section -->
+                    <div class="mt-auto mb-3 px-3">
+                        <div class="d-flex align-items-center gap-2">
+                            <img src="https://ui-avatars.com/api/?name=User&background=007bff&color=fff" 
+                                 alt="Profile" 
+                                 class="rounded-circle"
+                                 style="width: 40px; height: 40px;">
+                            <div class="flex-grow-1">
+                                <div class="small fw-semibold text-dark">user@adnoc.ae</div>
+                                <a href="/Login" class="btn btn-link text-primary p-0 small">
+                                    <i class="fas fa-sign-out-alt me-1"></i>Sign Out
+                                </a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </nav>
 
             <!-- Main content -->
-            <main class="col-md-10 ms-sm-auto px-md-4 ">
+            <main class="col-md-10 ms-sm-auto px-md-4">
                 @RenderBody()
             </main>
         </div>
