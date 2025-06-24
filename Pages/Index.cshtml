@@ -4,7 +4,7 @@
     ViewData["Title"] = "Dashboard";
 }
 
-<div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-1 pb-1 mb-3">
+<div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-1 pb-1 mb-4">
     <h1 class="text-center w-100">
         <span class="fw-bold display-4" style="color: #4285f4;">MTRA</span>
         <br>
@@ -85,14 +85,16 @@
                 <h5 class="card-title mb-0">Weekly Transport Requests Overview</h5>
             </div>
             <div class="card-body">
-                <canvas id="weeklyChart" width="400" height="100"></canvas>
+                <div style="height: 300px;">
+                    <canvas id="weeklyChart"></canvas>
+                </div>
             </div>
         </div>
     </div>
 </div>
 
 <!-- Recent Requests Table -->
-<div class="row">
+<div class="row mb-4">
     <div class="col-12">
         <div class="card">
             <div class="card-header">
@@ -148,45 +150,77 @@
 </div>
 
 @section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
     <script>
-        // Weekly Chart
-        const ctx = document.getElementById('weeklyChart').getContext('2d');
-        const weeklyData = @Html.Raw(System.Text.Json.JsonSerializer.Serialize(Model.WeeklyStats));
-        
-        new Chart(ctx, {
-            type: 'bar',
-            data: {
-                labels: weeklyData.map(d => d.day),
-                datasets: [{
-                    data: weeklyData.map(d => d.requests),
-                    backgroundColor: '#4285f4',
-                    borderColor: '#4285f4',
-                    borderWidth: 1,
-                    borderRadius: 4
-                }]
-            },
-            options: {
-                responsive: true,
-                plugins: {
-                    legend: {
-                        display: false
-                    }
+        document.addEventListener('DOMContentLoaded', function() {
+            const ctx = document.getElementById('weeklyChart').getContext('2d');
+            
+            // Use your existing WeeklyStats data
+            const data = @Html.Raw(Json.Serialize(Model.WeeklyStats));
+            
+            new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: data.map(item => item.day),
+                    datasets: [{
+                        label: 'Transport Requests',
+                        data: data.map(item => item.requests),
+                        borderColor: '#2563eb',
+                        backgroundColor: 'rgba(37, 99, 235, 0.1)',
+                        borderWidth: 3,
+                        pointBackgroundColor: '#2563eb',
+                        pointBorderColor: '#2563eb',
+                        pointBorderWidth: 2,
+                        pointRadius: 4,
+                        pointHoverRadius: 6,
+                        pointHoverBorderWidth: 2,
+                        tension: 0.4,
+                        fill: false
+                    }]
                 },
-                scales: {
-                    y: {
-                        beginAtZero: true,
-                        max: 10,
-                        ticks: {
-                            stepSize: 3
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            display: false
                         }
                     },
-                    x: {
-                        grid: {
-                            display: false
+                    scales: {
+                        x: {
+                            grid: {
+                                color: '#f0f0f0',
+                                borderDash: [3, 3]
+                            },
+                            border: {
+                                display: false
+                            },
+                            ticks: {
+                                color: '#6b7280',
+                                font: {
+                                    size: 12
+                                }
+                            }
+                        },
+                        y: {
+                            grid: {
+                                color: '#f0f0f0',
+                                borderDash: [3, 3]
+                            },
+                            border: {
+                                display: false
+                            },
+                            ticks: {
+                                color: '#6b7280',
+                                font: {
+                                    size: 12
+                                },
+                                beginAtZero: true
+                            }
                         }
                     }
                 }
-            }
+            });
         });
     </script>
 }
