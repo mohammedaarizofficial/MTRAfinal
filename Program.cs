@@ -1,7 +1,12 @@
+using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+
+// Add Entity Framework Core with SQL Server
+builder.Services.AddDbContext<MTRADashboard.Models.MTRADbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // Add authentication
 builder.Services.AddAuthentication("Cookies")
