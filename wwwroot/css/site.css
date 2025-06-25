@@ -106,6 +106,42 @@
     padding: 0.375rem 0.75rem;
 }
 
+/* Status Badge Styles */
+.table .badge {
+    display: block;
+    width: 100%;
+    padding: 6px 0;
+    font-size: 0.875rem;
+    text-align: center;
+    font-weight: 500;
+    border-radius: 6px;
+}
+
+/* Custom Badge Colors - Matching Dashboard Cards */
+.custom-badge-warning {
+    background-color: #FFF8E7;
+    color: #D4A055;
+    border: 1px solid #FFE4B0;
+}
+
+.custom-badge-success {
+    background-color: #F0FFF4;
+    color: #68B984;
+    border: 1px solid #C6F6D5;
+}
+
+.custom-badge-danger {
+    background-color: #FFF5F5;
+    color: #E53E3E;
+    border: 1px solid #FED7D7;
+}
+
+.custom-badge-primary {
+    background-color: #F0F7FF;
+    color: #4299E1;
+    border: 1px solid #BEE3F8;
+}
+
 main{
     padding-top:5px;
 }
@@ -118,4 +154,135 @@ main{
     main {
         margin-left: 0 !important;
     }
+}
+
+/* Account Section Cards */
+.account-card {
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.account-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.account-card .card-title {
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: #6B7280;
+}
+
+.account-card .icon-circle {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.account-card .form-control {
+    border: 1px solid rgba(0,0,0,0.1);
+    border-radius: 8px;
+    padding: 0.5rem 1rem;
+    font-size: 0.9rem;
+}
+
+.account-card .form-control:focus {
+    box-shadow: none;
+    border-color: rgba(0,0,0,0.2);
+}
+
+.account-card .form-label {
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: #6B7280;
+    margin-bottom: 0.5rem;
+}
+
+/* Profile Section Styles */
+.profile-section {
+    padding: 1rem;
+    border-top: 1px solid #f3f4f6;
+}
+
+.profile-container {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.75rem;
+    border-radius: 0.5rem;
+    background-color: #f9fafb;
+}
+
+.profile-avatar {
+    width: 2.25rem;
+    height: 2.25rem;
+    border-radius: 50%;
+    background-color: #dbeafe;
+    color: #1d4ed8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.875rem;
+    font-weight: 500;
+}
+
+.profile-info {
+    flex: 1;
+    min-width: 0;
+}
+
+.profile-name {
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: #111827;
+    margin: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.profile-email {
+    font-size: 0.75rem;
+    color: #6b7280;
+    margin: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.profile-separator {
+    margin: 0.75rem 0;
+    border: 0;
+    border-top: 1px solid #f3f4f6;
+}
+
+.profile-signout {
+    width: 100%;
+    padding: 0.5rem;
+    text-align: left;
+    font-size: 0.875rem;
+    color: #4b5563;
+    background: transparent;
+    border: none;
+    border-radius: 0.375rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.profile-signout:hover {
+    color: #111827;
+    background-color: #f9fafb;
+}
+
+.profile-signout i {
+    font-size: 1rem;
 }

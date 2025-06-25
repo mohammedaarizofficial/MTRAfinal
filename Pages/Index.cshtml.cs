@@ -63,6 +63,54 @@ namespace MTRADashboard.Pages
                     Destination = "Abu Dhabi Rotterdam",
                     Status = RequestStatus.Approved,
                     CreatedDate = DateTime.Now.AddDays(-2)
+                },
+                new()
+                {
+                    RequestId = "MTRA0117",
+                    Type = "Land",
+                    Destination = "Dubai",
+                    Status = RequestStatus.Active,
+                    CreatedDate = DateTime.Now.AddDays(-2)
+                },
+                new()
+                {
+                    RequestId = "MTRA0116",
+                    Type = "Land",
+                    Destination = "Sharjah",
+                    Status = RequestStatus.Rejected,
+                    CreatedDate = DateTime.Now.AddDays(-3)
+                },
+                new()
+                {
+                    RequestId = "MTRA0115",
+                    Type = "Overseas",
+                    Destination = "Abu Dhabi Singapore",
+                    Status = RequestStatus.Pending,
+                    CreatedDate = DateTime.Now.AddDays(-3)
+                },
+                new()
+                {
+                    RequestId = "MTRA0114",
+                    Type = "Land",
+                    Destination = "Ras Al Khaimah",
+                    Status = RequestStatus.Approved,
+                    CreatedDate = DateTime.Now.AddDays(-4)
+                },
+                new()
+                {
+                    RequestId = "MTRA0113",
+                    Type = "Overseas",
+                    Destination = "Abu Dhabi Shanghai",
+                    Status = RequestStatus.Active,
+                    CreatedDate = DateTime.Now.AddDays(-4)
+                },
+                new()
+                {
+                    RequestId = "MTRA0112",
+                    Type = "Land",
+                    Destination = "Al Ain",
+                    Status = RequestStatus.Pending,
+                    CreatedDate = DateTime.Now.AddDays(-5)
                 }
             };
         }

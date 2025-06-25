@@ -123,16 +123,24 @@
                                         @switch (request.Status)
                                         {
                                             case RequestStatus.Pending:
-                                                <span class="badge bg-warning">Pending</span>
+                                                <div style="width: 100px; text-align: center;">
+                                                    <span class="badge custom-badge-warning">Pending</span>
+                                                </div>
                                                 break;
                                             case RequestStatus.Approved:
-                                                <span class="badge bg-success">Approved</span>
+                                                <div style="width: 100px; text-align: center;">
+                                                    <span class="badge custom-badge-success">Approved</span>
+                                                </div>
                                                 break;
                                             case RequestStatus.Rejected:
-                                                <span class="badge bg-danger">Rejected</span>
+                                                <div style="width: 100px; text-align: center;">
+                                                    <span class="badge custom-badge-danger">Rejected</span>
+                                                </div>
                                                 break;
                                             case RequestStatus.Active:
-                                                <span class="badge bg-primary">Active</span>
+                                                <div style="width: 100px; text-align: center;">
+                                                    <span class="badge custom-badge-primary">Active</span>
+                                                </div>
                                                 break;
                                         }
                                     </td>

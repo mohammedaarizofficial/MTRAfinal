@@ -75,6 +75,19 @@
             box-shadow: none;
             border-bottom: 1px solid #667eea;
         }
+        .account-card {
+            border: none;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+        .icon-circle {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #D4A055;
+        }
     </style>
 </head>
 <body>
@@ -255,39 +268,72 @@
                     <div class="card-header section-header">
                         <h3 class="mb-0 py-2">
                             <i class="fas fa-file-contract me-2"></i>
-                            Section 4: Agreement, Accounting, Delivery
+                            Section 4: Agreement & Accounting
                         </h3>
                     </div>
                     <div class="card-body">
-                        <div class="row">
-                            <div class="col-md-4 mb-3">
-                                <label class="form-label">Agreement No</label>
-                                <input asp-for="TransportRequest.AgreementNo" class="form-control" />
+                        <!-- Agreement Section -->
+                        <div class="row mb-4">
+                            <div class="col-md-6">
+                                <div class="card account-card h-100" style="background: #FFF8E7;">
+                                    <div class="card-body">
+                                        <div class="d-flex justify-content-between align-items-start mb-3">
+                                            <h5 class="card-title mb-0">Agreement Details</h5>
+                                            <div class="icon-circle" style="background: #D4A055;">
+                                                <i class="fas fa-file-signature text-white"></i>
+                                            </div>
+                                        </div>
+                                        <div class="mb-3">
+                                            <label class="form-label">Agreement No</label>
+                                            <input asp-for="TransportRequest.AgreementNo" class="form-control" />
+                                        </div>
+                                        <div class="mb-3">
+                                            <label class="form-label">Agreement Remarks</label>
+                                            <input asp-for="TransportRequest.AgreementRemarks" class="form-control" />
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="col-md-4 mb-3">
-                                <label class="form-label">Agreement Remarks</label>
-                                <input asp-for="TransportRequest.AgreementRemarks" class="form-control" />
-                            </div>
-                            <div class="col-md-4 mb-3">
-                                <label class="form-label">GL Account Code</label>
-                                <input asp-for="TransportRequest.GLAccountCode" class="form-control" />
+                            <div class="col-md-6">
+                                <div class="card account-card h-100" style="background: #F0FFF4;">
+                                    <div class="card-body">
+                                        <div class="d-flex justify-content-between align-items-start mb-3">
+                                            <h5 class="card-title mb-0">Accounting Details</h5>
+                                            <div class="icon-circle" style="background: #68B984;">
+                                                <i class="fas fa-calculator text-white"></i>
+                                            </div>
+                                        </div>
+                                        <div class="mb-3">
+                                            <label class="form-label">GL Account Code</label>
+                                            <input asp-for="TransportRequest.GLAccountCode" class="form-control" />
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-md-6 mb-3">
+                                                <label class="form-label">WBS Code</label>
+                                                <input asp-for="TransportRequest.WBSCode" class="form-control" />
+                                            </div>
+                                            <div class="col-md-6 mb-3">
+                                                <label class="form-label">Cost Center</label>
+                                                <input asp-for="TransportRequest.CostCenter" class="form-control" />
+                                            </div>
+                                        </div>
+                                        <div class="mb-3">
+                                            <label class="form-label">Account Remarks</label>
+                                            <input asp-for="TransportRequest.AccountRemarks" class="form-control" />
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-                        <div class="row">
-                            <div class="col-md-4 mb-3">
-                                <label class="form-label">WBS Code</label>
-                                <input asp-for="TransportRequest.WBSCode" class="form-control" />
-                            </div>
-                            <div class="col-md-4 mb-3">
-                                <label class="form-label">Cost Center</label>
-                                <input asp-for="TransportRequest.CostCenter" class="form-control" />
-                            </div>
-                            <div class="col-md-4 mb-3">
-                                <label class="form-label">Account Remarks</label>
-                                <input asp-for="TransportRequest.AccountRemarks" class="form-control" />
-                            </div>
+
+                        <!-- Delivery Section -->
+                        <div class="card-header section-header mt-4">
+                            <h3 class="mb-0 py-2">
+                                <i class="fas fa-truck-loading me-2"></i>
+                                Delivery Details
+                            </h3>
                         </div>
-                        <div class="row">
+                        <div class="row mt-4">
                             <div class="col-md-4 mb-3">
                                 <label class="form-label required-field">Loading Address</label>
                                 <textarea asp-for="TransportRequest.LoadingAddress" class="form-control" required></textarea>
