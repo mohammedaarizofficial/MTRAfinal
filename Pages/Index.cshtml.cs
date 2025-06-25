@@ -58,11 +58,59 @@ namespace MTRADashboard.Pages
                 },
                 new()
                 {
-                    RequestId = "MTRA0118",
-                    Type = "Overseas",
-                    Destination = "Abu Dhabi Rotterdam",
+                    RequestId = "MTRA0122",
+                    Type = "Sea",
+                    Destination = "Dubai Port",
+                    Status = RequestStatus.Active,
+                    CreatedDate = DateTime.Now.AddDays(-1)
+                },
+                new()
+                {
+                    RequestId = "MTRA0121",
+                    Type = "Air",
+                    Destination = "Sharjah Airport",
                     Status = RequestStatus.Approved,
                     CreatedDate = DateTime.Now.AddDays(-2)
+                },
+                new()
+                {
+                    RequestId = "MTRA0120",
+                    Type = "Land",
+                    Destination = "Al Ain",
+                    Status = RequestStatus.Rejected,
+                    CreatedDate = DateTime.Now.AddDays(-2)
+                },
+                new()
+                {
+                    RequestId = "MTRA0119",
+                    Type = "Sea",
+                    Destination = "Fujairah Port",
+                    Status = RequestStatus.Pending,
+                    CreatedDate = DateTime.Now.AddDays(-3)
+                },
+                new()
+                {
+                    RequestId = "MTRA0118",
+                    Type = "Land",
+                    Destination = "Ras Al Khaimah",
+                    Status = RequestStatus.Active,
+                    CreatedDate = DateTime.Now.AddDays(-3)
+                },
+                new()
+                {
+                    RequestId = "MTRA0117",
+                    Type = "Air",
+                    Destination = "Abu Dhabi Airport",
+                    Status = RequestStatus.Approved,
+                    CreatedDate = DateTime.Now.AddDays(-4)
+                },
+                new()
+                {
+                    RequestId = "MTRA0116",
+                    Type = "Land",
+                    Destination = "Ajman",
+                    Status = RequestStatus.Rejected,
+                    CreatedDate = DateTime.Now.AddDays(-4)
                 }
             };
         }

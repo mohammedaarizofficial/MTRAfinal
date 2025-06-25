@@ -108,7 +108,7 @@
                                 <th>REQUEST ID</th>
                                 <th>TYPE</th>
                                 <th>DESTINATION</th>
-                                <th>STATUS</th>
+                                <th class="text-center">STATUS</th>
                                 <th>ACTION</th>
                             </tr>
                         </thead>
@@ -119,20 +119,20 @@
                                     <td>@request.RequestId</td>
                                     <td>@request.Type</td>
                                     <td>@request.Destination</td>
-                                    <td>
+                                    <td class="text-center">
                                         @switch (request.Status)
                                         {
                                             case RequestStatus.Pending:
-                                                <span class="badge bg-warning">Pending</span>
+                                                <span class="badge status-badge status-pending">Pending</span>
                                                 break;
                                             case RequestStatus.Approved:
-                                                <span class="badge bg-success">Approved</span>
+                                                <span class="badge status-badge status-approved">Approved</span>
                                                 break;
                                             case RequestStatus.Rejected:
-                                                <span class="badge bg-danger">Rejected</span>
+                                                <span class="badge status-badge status-rejected">Rejected</span>
                                                 break;
                                             case RequestStatus.Active:
-                                                <span class="badge bg-primary">Active</span>
+                                                <span class="badge status-badge status-active">Active</span>
                                                 break;
                                         }
                                     </td>
@@ -148,6 +148,40 @@
         </div>
     </div>
 </div>
+
+<style>
+    .status-badge {
+        min-width: 100px;
+        padding: 0.5rem 1rem;
+        font-weight: 500;
+        text-align: center;
+        border: 1px solid;
+    }
+
+    .status-pending {
+        background-color: #fff3cd;
+        color: #856404;
+        border-color: #ffeeba;
+    }
+
+    .status-approved {
+        background-color: #d4edda;
+        color: #155724;
+        border-color: #c3e6cb;
+    }
+
+    .status-rejected {
+        background-color: #f8d7da;
+        color: #721c24;
+        border-color: #f5c6cb;
+    }
+
+    .status-active {
+        background-color: #cce5ff;
+        color: #004085;
+        border-color: #b8daff;
+    }
+</style>
 
 @section Scripts {
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
