@@ -17,6 +17,7 @@
 
 .sidebar .nav-link:hover {
     background-color: #e9ecef;
+    color: #4285f4;
 }
 
 .sidebar .nav-link.active {
