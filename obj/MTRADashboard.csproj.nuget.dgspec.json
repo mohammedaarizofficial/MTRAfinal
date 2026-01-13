@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/MTRADashboard.csproj": {}
+    "/Users/mohammedaariz/Desktop/MTRA/MTRADashboard.csproj": {}
   },
   "projects": {
-    "/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/MTRADashboard.csproj": {
+    "/Users/mohammedaariz/Desktop/MTRA/MTRADashboard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/MTRADashboard.csproj",
+        "projectUniqueName": "/Users/mohammedaariz/Desktop/MTRA/MTRADashboard.csproj",
         "projectName": "MTRADashboard",
-        "projectPath": "/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/MTRADashboard.csproj",
+        "projectPath": "/Users/mohammedaariz/Desktop/MTRA/MTRADashboard.csproj",
         "packagesPath": "/Users/mohammedaariz/.nuget/packages/",
-        "outputPath": "/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/",
+        "outputPath": "/Users/mohammedaariz/Desktop/MTRA/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mohammedaariz/.nuget/NuGet/NuGet.Config"

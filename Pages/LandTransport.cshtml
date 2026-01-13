@@ -13,6 +13,8 @@
     <title>@ViewData["Title"] - Material Transport System</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css" rel="stylesheet" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet" />
+    <!-- Google Fonts for heading and subheading -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Roboto:wght@400;500&display=swap" rel="stylesheet" />
     <style>
         .section-header {
             background: linear-gradient(135deg, #4285f4 0%, #5f7de2 100%);
@@ -80,14 +82,24 @@
         .card {
             border: none !important;
         }
+        .mtra-heading {
+            font-family: 'Montserrat', Arial, sans-serif;
+            letter-spacing: 2px;
+            font-weight: 700;
+        }
+        .mtra-subheading {
+            font-family: 'Roboto', Arial, sans-serif;
+            font-weight: 400;
+            letter-spacing: 1px;
+        }
     </style>
 </head>
 <body>
     <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-1 pb-1 mb-3">
         <h1 class="text-center w-100">
-            <span class="fw-bold display-4" style="color: #4285f4;">MTRA</span>
+            <span class="fw-bold display-4 mtra-heading" style="color: #4285f4;">MTRA</span>
             <br>
-            <small class="text-muted fs-6">MATERIAL TRANSPORT REQUEST SYSTEM</small>
+            <small class="text-muted fs-6 mtra-subheading">MATERIAL TRANSPORT REQUEST SYSTEM</small>
             <hr class="w-25 mx-auto" style="color: #4285f4; height: 3px;">
         </h1>
     </div>

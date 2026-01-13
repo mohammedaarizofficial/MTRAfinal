@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MTRADashboard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b81d3f342b597642b4645912e7b179b0b507b4e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+289904ccdcd4da425916071f039cfc93c273ef10")]
 [assembly: System.Reflection.AssemblyProductAttribute("MTRADashboard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MTRADashboard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
