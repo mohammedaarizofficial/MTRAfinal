@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/MTRADashboard.csproj": {}
+    "/Users/mohammedaariz/Desktop/MTRAfinal/MTRAfinal/MTRADashboard.csproj": {}
   },
   "projects": {
-    "/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/MTRADashboard.csproj": {
+    "/Users/mohammedaariz/Desktop/MTRAfinal/MTRAfinal/MTRADashboard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/MTRADashboard.csproj",
+        "projectUniqueName": "/Users/mohammedaariz/Desktop/MTRAfinal/MTRAfinal/MTRADashboard.csproj",
         "projectName": "MTRADashboard",
-        "projectPath": "/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/MTRADashboard.csproj",
+        "projectPath": "/Users/mohammedaariz/Desktop/MTRAfinal/MTRAfinal/MTRADashboard.csproj",
         "packagesPath": "/Users/mohammedaariz/.nuget/packages/",
-        "outputPath": "/Users/mohammedaariz/Desktop/MTRA_3/MTRAfinal/obj/",
+        "outputPath": "/Users/mohammedaariz/Desktop/MTRAfinal/MTRAfinal/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mohammedaariz/.nuget/NuGet/NuGet.Config"
@@ -43,6 +43,18 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
